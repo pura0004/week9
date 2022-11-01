@@ -1,0 +1,11 @@
+html, body, main {
+    display: grid;
+    align-content: center;
+    height: 100vh;
+    text-align: center;
+    
+}
+
+.alert {
+    transition: opacity o.5s;
+}
